@@ -1,0 +1,9 @@
+{
+	"name": "Holy Liquid",
+	"description": "Holy liquid, praised by Jesus himself.",
+	"temperature": 0.5,
+	"amount": 0.5,
+    "viscosity": 0.45,
+    "effect": "freezing",
+    "color": "ffffff"
+}

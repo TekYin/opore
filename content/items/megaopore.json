@@ -1,0 +1,10 @@
+{
+	"type": "material",
+	"name": "Mega Opore",
+	"description": "A Mega variant of opore, made from combining liquid and solid opore",
+	"hardness": 5,
+	"cost": 2.0,
+	"color": "750808",
+	"explosiveness": 5
+	"flammability": 5
+}

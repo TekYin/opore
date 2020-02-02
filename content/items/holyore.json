@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Holy Ore",
+	"description": "Holy ore, praised by Jesus himself.",
+	"hardness": 6,
+	"cost": 2.0,
+	"color": "ffffff"
+}
