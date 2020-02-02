@@ -17,7 +17,7 @@
 			"items": [
 				{ "item": "graphite", "amount": 10 }
 			]
-		},
+		}
 	},
 	"requirements": [
 		{ "item": "lead", "amount": 50 },
