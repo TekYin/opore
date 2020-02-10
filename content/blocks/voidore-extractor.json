@@ -14,7 +14,7 @@
 	"updateEffect": "pulverize",
     "updateEffectChance": 0.08,
 	"consumes": {
-		"power": 4.0
+		"power": 4.0,
 	},
 	"requirements": [
 		{ "item": "lead", "amount": 50 },
