@@ -1,5 +1,5 @@
 {
-	"type": "Fracker",
+	"type": "SolidPump",
 	"name": "Antomius Extractor",
 	"description": "Extracts antomius from the ground using power.",
 	"liquidCapacity": 50,
