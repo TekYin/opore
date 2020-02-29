@@ -1,0 +1,17 @@
+{
+	"type": "flyingUnit",
+	"name": "Holy Ship Unit",
+	"description": "An incredibly advanced lightning attack ship unit.",
+	"speed": 0.5,
+	"flying": true,
+	"health": 700,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "ho-mechunit-blaster",
+		"length": 4,
+		"reload": 7,
+		"alternate": false,
+		"bullet": "lightning"
+	}
+}

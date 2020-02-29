@@ -1,0 +1,19 @@
+{
+	"type": "flyingUnit",
+	"name": "Void Ship Unit",
+	"description": "An incredibly advanced explosive attack ship unit.",
+	"speed": 0.7,
+	"flying": true,
+	"health": 1000,
+	"engineOffset": 5.5,
+	"range": 160,
+	"weapon": {
+		"name": "vo-mechunit-blaster",
+		"homingRange":120,
+		"homingPower":7,
+		"length": 4,
+		"reload": 6,
+		"alternate": false,
+		"bullet": "missileExplosive"
+	}
+}
